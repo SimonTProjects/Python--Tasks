@@ -1,1 +1,1 @@
-# Python-Tasks-Projects
+A collection of Python tasks and projects conducted in Jupyter
